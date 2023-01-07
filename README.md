@@ -1,6 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=vertyco&show_icons=true&count_private=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vertyco&theme=radical)
+
 ![](https://discord.c99.nl/widget/theme-3/350053505815281665.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vertyco/Vertyco)
