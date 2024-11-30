@@ -1,7 +1,5 @@
 ![](.assets/Bottom_up.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+My+name+is+Alex;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Mechanical+engineer+and+software+developer;Always+learning+new+things)](https://git.io/typing-svg)
-
 ![vertyco's github stats](https://github-readme-stats.vercel.app/api?username=vertyco&show_icons=true&theme=radical&include_all_commits=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vertyco&theme=radical)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vertyco&theme=discord)](https://github.com/vertyco/github-profile-trophy)
