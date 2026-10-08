@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="170" viewBox="0 0 500 170" fill="none">
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace; }
+</style>
+<rect x="0.5" y="0.5" width="499" height="169" rx="14" fill="#151917" stroke="#232a26"/>
+  <text x="28" y="40" class="mono" font-size="12" fill="#35d07f" letter-spacing="1.5">PYTHON · RED-DISCORDBOT</text>
+  <text x="28" y="80" class="sans" font-size="28" font-weight="700" fill="#e7ebe8">vrt-cogs</text>
+  <text x="28" y="110" class="sans" font-size="16" fill="#8b968f">50+ plugins for Red-DiscordBot: leveling,</text><text x="28" y="133" class="sans" font-size="16" fill="#8b968f">support tickets, an AI assistant, economy.</text>
+  <path d="M458 44 L472 30 M462 30 H472 V40" stroke="#35d07f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="150" width="28" height="3" rx="1.5" fill="#35d07f"/>
+</svg>
