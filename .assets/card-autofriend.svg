@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" fill="none">
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace; }
+</style>
+<rect x="0.5" y="0.5" width="999" height="169" rx="14" fill="#151917" stroke="#232a26"/>
+  <text x="28" y="40" class="mono" font-size="12" fill="#35d07f" letter-spacing="1.5">FREE TO USE · CLOSED SOURCE · FASTAPI</text>
+  <text x="28" y="80" class="sans" font-size="28" font-weight="700" fill="#e7ebe8">autofriend.app</text>
+  <text x="28" y="110" class="sans" font-size="16" fill="#8b968f">Auto-accepts Xbox friend requests for self-hosted ARK servers,</text><text x="28" y="133" class="sans" font-size="16" fill="#8b968f">so players can join without waiting on an admin.</text>
+  <rect x="28" y="150" width="28" height="3" rx="1.5" fill="#35d07f"/>
+  <line x1="700" y1="34" x2="700" y2="136" stroke="#232a26"/>
+  <text x="840" y="94" text-anchor="middle" class="sans" font-size="40" font-weight="700" fill="#35d07f">39,000+</text>
+  <text x="840" y="122" text-anchor="middle" class="mono" font-size="13" fill="#8b968f" letter-spacing="1.2">FRIEND REQUESTS ACCEPTED</text>
+  <path d="M958 44 L972 30 M962 30 H972 V40" stroke="#35d07f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

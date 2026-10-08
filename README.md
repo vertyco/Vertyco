@@ -4,7 +4,7 @@ I write software for a living. Outside of work I run [Vertyco](https://vertyco.n
 
 <img src=".assets/stats.svg" width="100%" alt="28 game servers, 9,000+ community members, 1,100+ Discords using Arkon, 50+ open-source cogs">
 
-### Featured projects
+### Open source
 
 <p>
   <a href="https://github.com/vertyco/vrt-cogs"><img src=".assets/card-vrt-cogs.svg" width="49%" alt="vrt-cogs: 50+ plugins for Red-DiscordBot"></a>
@@ -13,9 +13,13 @@ I write software for a living. Outside of work I run [Vertyco](https://vertyco.n
   <a href="https://github.com/vertyco/redbot-orm"><img src=".assets/card-redbot-orm.svg" width="49%" alt="redbot-orm: Postgres and SQLite for Red cogs"></a>
 </p>
 
+### Free tools
+
+<a href="https://autofriend.app"><img src=".assets/card-autofriend.svg" width="100%" alt="autofriend.app: auto-accepts Xbox friend requests for self-hosted ARK servers"></a>
+
 ### Tools I use most
 
-<img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,docker,linux,powershell,discord&theme=dark" alt="Python, Django, PostgreSQL, SQLite, Docker, Linux, PowerShell, Discord">
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,sqlite,docker,linux,powershell,discord&theme=dark" alt="Python, Django, FastAPI, PostgreSQL, SQLite, Docker, Linux, PowerShell, Discord">
 
 ### Find me
 
