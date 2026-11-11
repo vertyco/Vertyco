@@ -1,8 +1,12 @@
 <img src=".assets/banner-network.svg" width="100%" alt="Hi, I'm Alex. Software developer: Python backends, Discord bots, and game server automation.">
 
-I write software for a living. Outside of work I run [Vertyco](https://vertyco.net), a crossplay ARK: Survival community I started in 2019, on servers I host and automate myself. I also built [Arkon](https://arkonbot.com), a public Discord bot that ARK server owners use to manage their servers.
+I write software for a living. Outside of work I run [Vertyco](https://vertyco.net), a crossplay ARK: Survival community I started in 2019, on servers I host and automate myself. I also built [Arkon](https://arkonbot.com), a public Discord bot that ARK server owners use to manage their servers, and [GlassRelay](https://glassrelay.com), a Discord bot for selling roles and taking donations on your own PayPal and Stripe.
 
 <img src=".assets/stats.svg" width="100%" alt="28 game servers, 9,000+ community members, 1,100+ Discords using Arkon, 50+ open-source cogs">
+
+### Products
+
+<a href="https://glassrelay.com"><img src=".assets/card-glassrelay.svg" width="100%" alt="glassrelay.com: a Discord bot that sells roles, subscriptions and donations on your own PayPal and Stripe, with no platform fee on sales"></a>
 
 ### Open source
 
@@ -26,5 +30,6 @@ I write software for a living. Outside of work I run [Vertyco](https://vertyco.n
 <p>
   <a href="https://vertyco.net"><img src=".assets/btn-vertyco.svg" height="44" alt="vertyco.net"></a>
   <a href="https://arkonbot.com"><img src=".assets/btn-arkon.svg" height="44" alt="arkonbot.com"></a>
+  <a href="https://glassrelay.com"><img src=".assets/btn-glassrelay.svg" height="44" alt="glassrelay.com"></a>
   <a href="https://discord.gg/vertyco"><img src=".assets/btn-discord.svg" height="44" alt="discord.gg/vertyco"></a>
 </p>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241" height="52" viewBox="0 0 241 52" fill="none">
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace; }
+</style>
+<rect x="0.5" y="0.5" width="240" height="51" rx="10" fill="#151917" stroke="#232a26"/>
+  <g transform="translate(20 14)"><g stroke="#35d07f" stroke-width="1.6"><circle cx="12" cy="12" r="9.5"/><ellipse cx="12" cy="12" rx="4.2" ry="9.5"/><path d="M2.5 12H21.5M4 7.2H20M4 16.8H20"/></g></g>
+  <text x="56" y="31.5" class="mono" font-size="15" fill="#e7ebe8">glassrelay.com</text>
+  <path d="M211 32 L220 23 M214 23 H220 V29" stroke="#8b968f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
